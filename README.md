@@ -21,7 +21,7 @@ cara menginstallnya anda bisa lihat tutorial ini
 2. Extract filenya
 
 
-#Menjalankan Tools
+# Menjalankan Tools
 
 1. Buka Folder yang telah diekstrak, lalu open terminal pada lokasi alamat folder tersebut.
 
