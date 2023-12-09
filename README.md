@@ -1,4 +1,4 @@
-#AlgoritmaBanker-DEADLOCK
+# AlgoritmaBanker-DEADLOCK
 
 Algoritma banker adalah algoritma yang digunakan dalam manajemen sumber daya dalam sistem operasi, khususnya pada sistem operasi yang mendukung multitasking. Algoritma ini dirancang untuk mencegah deadlock (kondisi di mana dua atau lebih proses tidak dapat melanjutkan eksekusinya karena saling menunggu sumber daya yang dimiliki oleh proses lain). Algoritma banker memeriksa apakah alokasi sumber daya yang diminta oleh suatu proses akan menyebabkan sistem jatuh ke dalam deadlock atau tidak sebelum mengizinkan alokasi tersebut. Jadi disini kami bertiga merancang sebuah tools simulasi AlgoritmaBanker-DEADLOCK
 
@@ -7,7 +7,7 @@ Anggota Tim:
 2. Muhammad Fauzi           :23050
 3. Luqman Al-Yasin          :23050
 
-#Instalasi
+# Instalasi
 
 (untuk menjalankan tools ini anda membutuhkan python3. 
 cara menginstallnya anda bisa lihat tutorial ini 
