@@ -10,7 +10,7 @@ cara menginstallnya anda bisa lihat tutorial ini
 
 1. Silahkan Download dulu filenya.
 
-![image](https://github.com/TUGAS-SO/AlgoritmaBanker-DEADLOCK/asset/aaaaaaaaaaaaa.jpg)
+![image](https://github.com/TUGAS-SO/AlgoritmaBanker-DEADLOCK/blob/main/asset/aaaaaaaaaaaaa.jpg)
 
 
 2. Extract filenya
